@@ -21,6 +21,33 @@
 
 ---
 
+## 📝 Blog
+
+Welcome to my blog! Here I share insights on artificial intelligence, decision intelligence, digital transformation, and related topics.
+
+### Recent Posts
+
+- **[The Metaverse Isn't a Game. It's the Ultimate Offshore Bank Account.](https://www.linkedin.com/pulse/yushu-liu-metaverse-isnt-game-its-ultimate-offshore-bank-yushu-liu-03npc/)** - 2025-12-13 | Metaverse/Finance/Blockchain
+
+<!-- 
+Add your blog posts here using the format below:
+- **[Post Title](URL)** - YYYY-MM-DD | Category/Tags
+-->
+
+### Blog Links
+
+- **LinkedIn**: [Yushu Liu on LinkedIn](https://www.linkedin.com/in/yushu-liu/)
+
+<!-- Add links to your blog platforms -->
+<!-- 
+- **Personal Blog**: [Your Blog Name](URL)
+- **Medium**: [@yourusername](URL)
+- **Substack**: [Your Newsletter](URL)
+- **GitHub Pages Blog**: [Blog Repository](URL)
+-->
+
+---
+
 ## 📚 Books
 
 ### [01] Digital China: Blockchain, Intelligent Revolution and the Future of National Governance
@@ -102,33 +129,6 @@
 
 - **Digital RMB Pilot Program Arrives, Experts Explain How It Will Affect Our Lives** | People's Daily Online, 2020-08-17
 - **Fighting Poverty Alleviation|Exploring the Unknown World "In the Cloud", "Internet + Education" Builds a New Bridge for Poverty Alleviation** | Xinhua News, 2020-08-03
-
----
-
-## 📝 Blog
-
-Welcome to my blog! Here I share insights on artificial intelligence, decision intelligence, digital transformation, and related topics.
-
-### Recent Posts
-
-- **[The Metaverse Isn't a Game. It's the Ultimate Offshore Bank Account.](https://www.linkedin.com/pulse/yushu-liu-metaverse-isnt-game-its-ultimate-offshore-bank-yushu-liu-03npc/)** - 2025-12-13 | Metaverse/Finance/Blockchain
-
-<!-- 
-Add your blog posts here using the format below:
-- **[Post Title](URL)** - YYYY-MM-DD | Category/Tags
--->
-
-### Blog Links
-
-- **LinkedIn**: [Yushu Liu on LinkedIn](https://www.linkedin.com/in/yushu-liu-638549141/)
-
-<!-- Add links to your blog platforms -->
-<!-- 
-- **Personal Blog**: [Your Blog Name](URL)
-- **Medium**: [@yourusername](URL)
-- **Substack**: [Your Newsletter](URL)
-- **GitHub Pages Blog**: [Blog Repository](URL)
--->
 
 ---
 
