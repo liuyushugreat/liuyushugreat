@@ -137,6 +137,7 @@ Add your blog posts here using the format below:
 
 - **ORCID**: [0000-0002-7104-5818](https://orcid.org/0000-0002-7104-5818)
 - **GitHub**: [@liuyushugreat](https://github.com/liuyushugreat)
+- **LinkedIn**: [Yushu Liu](https://www.linkedin.com/in/yushu-liu-638549141/)
 - **X (Twitter)**: [@JackS47051](https://x.com/JackS47051)
 - **YouTube (中文)**: [我是刘玉书](https://www.youtube.com/@%E6%88%91%E6%98%AF%E5%88%98%E7%8E%89%E4%B9%A6)
 - **YouTube (English)**: [YUSHU_LIU_English](https://www.youtube.com/@YUSHU_LIU_English)
