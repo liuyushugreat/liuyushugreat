@@ -111,14 +111,16 @@ Welcome to my blog! Here I share insights on artificial intelligence, decision i
 
 ### Recent Posts
 
+- **[The Metaverse Isn't a Game. It's the Ultimate Offshore Bank Account.](https://www.linkedin.com/pulse/yushu-liu-metaverse-isnt-game-its-ultimate-offshore-bank-yushu-liu-03npc/)** - 2025-12-13 | Metaverse/Finance/Blockchain
+
 <!-- 
 Add your blog posts here using the format below:
 - **[Post Title](URL)** - YYYY-MM-DD | Category/Tags
 -->
 
-*Stay tuned for new articles!*
-
 ### Blog Links
+
+- **LinkedIn**: [Yushu Liu on LinkedIn](https://www.linkedin.com/in/yushu-liu/)
 
 <!-- Add links to your blog platforms -->
 <!-- 
