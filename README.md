@@ -105,6 +105,31 @@
 
 ---
 
+## 📝 Blog
+
+Welcome to my blog! Here I share insights on artificial intelligence, decision intelligence, digital transformation, and related topics.
+
+### Recent Posts
+
+<!-- 
+Add your blog posts here using the format below:
+- **[Post Title](URL)** - YYYY-MM-DD | Category/Tags
+-->
+
+*Stay tuned for new articles!*
+
+### Blog Links
+
+<!-- Add links to your blog platforms -->
+<!-- 
+- **Personal Blog**: [Your Blog Name](URL)
+- **Medium**: [@yourusername](URL)
+- **Substack**: [Your Newsletter](URL)
+- **GitHub Pages Blog**: [Blog Repository](URL)
+-->
+
+---
+
 ## 🔗 Links
 
 - **ORCID**: [0000-0002-7104-5818](https://orcid.org/0000-0002-7104-5818)
