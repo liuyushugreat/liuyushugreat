@@ -57,7 +57,7 @@ Add your blog posts here using the format below:
 - **Year**: 2020
 - **ISBN**: 978-7-5217-0958-2
 
-### [02] The Great Transformation
+### [02] [Profound Changes Unseen in Centuries: An Overview of China](https://books.google.com/books/about/Profound_Changes_Unseen_in_Centuries.html?id=JQz9zwEACAAJ)
 - **Authors**: Wang Wen, Jia Jinjing, Yushu Liu, Wang Peng
 - **Publisher**: Beijing Normal University Press
 - **Year**: 2020
