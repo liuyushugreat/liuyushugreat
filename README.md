@@ -5,6 +5,7 @@
 **Researcher in Artificial Intelligence—Decision Intelligence | Deputy Secretary-General of Zhongguancun Software Alliance**
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7104--5818-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7104-5818)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yushu-liu-638549141/)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/JackS47051)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@%E6%88%91%E6%98%AF%E5%88%98%E7%8E%89%E4%B9%A6)
 [![Email](https://img.shields.io/badge/Email-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:yushuliu@outlook.com)
