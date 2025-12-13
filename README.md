@@ -51,7 +51,7 @@ Add your blog posts here using the format below:
 
 ## 📚 Books
 
-### [01] Digital China: Blockchain, Intelligent Revolution and the Future of National Governance
+### [01] [Digital China: Blockchain, Intelligent Revolution and the Future of National Governance](https://catalogue.leidenuniv.nl/permalink/31UKB_LEU/1pfk69f/alma9939719872402711)
 - **Authors**: Wang Wen, Yushu Liu
 - **Publisher**: CITIC Press
 - **Year**: 2020
