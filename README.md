@@ -1,8 +1,8 @@
-# 刘玉书
+# Yushu Liu (刘玉书)
 
 <div align="center">
 
-**人工智能—决策智能领域研究人员 | 中关村软联副秘书长**
+**Researcher in Artificial Intelligence—Decision Intelligence | Deputy Secretary-General of Zhongguancun Software Alliance**
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7104--5818-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7104-5818)
 
@@ -10,99 +10,99 @@
 
 ---
 
-## 👤 个人简介
+## 👤 Biography
 
-**刘玉书**，男，毕业于北京电子科技学院，人工智能—决策智能领域研究人员，中关村软件与信息服务产业创新联盟（中关村软联）副秘书长。
+**Yushu Liu** (刘玉书), male, graduated from Beijing Electronic Science and Technology Institute. He is a researcher in the field of artificial intelligence—decision intelligence and serves as the Deputy Secretary-General of Zhongguancun Software and Information Service Industry Innovation Alliance (Zhongguancun Software Alliance).
 
-**专业方向**：人工智能
-
----
-
-## 📚 图书著作
-
-### [01] 《数字中国：区块链、智能革命与国家治理的未来》
-- **作者**：王文、刘玉书
-- **出版社**：中信出版社
-- **出版年份**：2020年
-- **ISBN**：978-7-5217-0958-2
-
-### [02] 《百年变局》
-- **作者**：王文、贾晋京、刘玉书、王鹏
-- **出版社**：北京师范大学出版社
-- **出版年份**：2020年
-- **ISBN**：9787303254972
+**Research Focus**: Artificial Intelligence
 
 ---
 
-## 📄 论文发表
+## 📚 Books
 
-### 2023年
+### [01] Digital China: Blockchain, Intelligent Revolution and the Future of National Governance
+- **Authors**: Wang Wen, Yushu Liu
+- **Publisher**: CITIC Press
+- **Year**: 2020
+- **ISBN**: 978-7-5217-0958-2
 
-**[01]** 石培培，刘玉书，李端文. 我国高科技产业的现状、困境与对策思考——以芯片半导体产业为例[J]. 江南论坛, 2023(02):23-27.
-
-**[02]** 刘玉书. 用好《数据二十条》，中小制造业企业需数据合规[J]. 上海企业, 2023, No.484(03):53-54.
-
-**[03]** 刘玉书. 推动"数字丝绸之路"向智能化发展[J]. 中国信息界, 2023, No.357(03):26-29.
-
-**[04]** 刘玉书. 人工智能：创造产业发展无限可能[J]. 上海企业, 2023(08):2-7.
-
-**[05]** 刘玉书, 武音璇. 美国星链对发展我国民营卫星互联网的启示[J]. 卫星应用, 2023(08):25-32.
-
-### 2022年
-
-**[06]** 刘玉书. 中美人工智能战略及政策的比较研究[J]. 云南行政学院学报, 2022, 24(01):101-124.
-
-### 2021年
-
-**[07]** 刘玉书, 王文. 中国智能制造发展现状和未来挑战[J]. 人民论坛·学术前沿, 2021, No.231(23):64-77.
-
-**[08]** 石培培, 刘玉书. 巨型平台的崛起与普通劳动者危机应对研究[J]. 云南社会科学, 2021, No.244(06):106-115.
-
-### 2020年
-
-**[09]** 王文, 刘玉书. 论数字中国社会:发展演进、现状评价与未来治理[J]. 学术探索, 2020, No.248(07):48-61.
-
-**[10]** 刘玉书. 反全球化背景下的智能制造升级与金融支持研究——基于工业4.0的视角[J]. 学术探索, 2020, No.242(01):120-136.
-
-**[11]** 刘玉书. 金融关键信息基础设施国产化：评估与展望[J]. 甘肃金融, 2020, No.502(01):8-12.
-
-**[12]** 王文, 刘玉书, 梁雨谷. 数字"一带一路":进展、挑战与实践方案[J]. 社会科学战线, 2020(08):58-68.
-
-### 2025年
-
-**[13]** 刘玉书. 小微科技企业知识产权质押融资的人工智能破局之道[N]. 中国金融新闻网, 2025-05-12.
-
-**[14]** 刘玉书. 软件行业协会助力高质量数据集建设[J]. 软件和集成电路, 2025(08):60-64.
+### [02] The Great Transformation
+- **Authors**: Wang Wen, Jia Jinjing, Yushu Liu, Wang Peng
+- **Publisher**: Beijing Normal University Press
+- **Year**: 2020
+- **ISBN**: 9787303254972
 
 ---
 
-## 🎤 媒体采访
+## 📄 Publications
 
-### 2025年
+### 2023
 
-- **奋楫笃行"2025年中经济系列报道⑤人形机器人正在成为"打工人"** | 人民网, 2025-08-08
-- **2025年服贸会：不止"黑科技"，更引领数智经济新潮流** | 中国网, 2025-9-23
+**[01]** Shi Peipei, Yushu Liu, Li Duanwen. Current Status, Challenges and Countermeasures of China's High-Tech Industry: A Case Study of the Chip and Semiconductor Industry[J]. Jiangnan Forum, 2023(02):23-27.
 
-### 2023年
+**[02]** Yushu Liu. Small and Medium Manufacturing Enterprises Need Data Compliance with the "Data Twenty Articles"[J]. Shanghai Enterprise, 2023, No.484(03):53-54.
 
-- **晚间报道 【聚焦深圳两会】全球领先的重要的先进制造业中心相关采访** | 深圳卫视, 2023-02-16
-- **AI中场战事：科技巨头竞相入局 中国公司如何突围** | 《证券日报》2023年3月18日A3版
-- **强观察丨数字经济发展跑出"加速度"** | 人民网, 2023-07-07
-- **下半年经济怎么干？中央政治局会议释放重磅信号** | 人民网, 2023-07-26
-- **"东数西算"开启两周年："算"出了怎样的新经济新生态**
-- **面对科技封锁，数字中国建设该如何破局？**
-- **叫停英伟达对华出口，美国将遭遇"芯梗"**
-- **在科创领域，习近平为何对上海寄予厚望？**
-- **美国在中东"撒芯片"遏制中国？战略短视注定失败。**
+**[03]** Yushu Liu. Promoting the Intelligent Development of the "Digital Silk Road"[J]. China Information World, 2023, No.357(03):26-29.
 
-### 2020年
+**[04]** Yushu Liu. Artificial Intelligence: Creating Infinite Possibilities for Industrial Development[J]. Shanghai Enterprise, 2023(08):2-7.
 
-- **数字人民币试点来了，专家解读将如何影响我们的生活** | 人民网, 2020-08-17
-- **决战决胜脱贫攻坚|"在云端"探索未知世界 "互联网+教育"架起扶贫新桥梁** | 新华网, 2020-08-03
+**[05]** Yushu Liu, Wu Yinxuan. Insights from U.S. Starlink for Developing China's Private Satellite Internet[J]. Satellite Applications, 2023(08):25-32.
+
+### 2022
+
+**[06]** Yushu Liu. A Comparative Study of AI Strategies and Policies between China and the United States[J]. Journal of Yunnan Administration College, 2022, 24(01):101-124.
+
+### 2021
+
+**[07]** Yushu Liu, Wang Wen. Current Status and Future Challenges of China's Intelligent Manufacturing Development[J]. People's Forum · Academic Frontiers, 2021, No.231(23):64-77.
+
+**[08]** Shi Peipei, Yushu Liu. The Rise of Mega Platforms and Crisis Response for Ordinary Workers[J]. Yunnan Social Sciences, 2021, No.244(06):106-115.
+
+### 2020
+
+**[09]** Wang Wen, Yushu Liu. On Digital China Society: Development Evolution, Current Status Evaluation and Future Governance[J]. Academic Exploration, 2020, No.248(07):48-61.
+
+**[10]** Yushu Liu. Research on Intelligent Manufacturing Upgrading and Financial Support under the Background of Anti-Globalization: From the Perspective of Industry 4.0[J]. Academic Exploration, 2020, No.242(01):120-136.
+
+**[11]** Yushu Liu. Localization of Financial Critical Information Infrastructure: Assessment and Prospects[J]. Gansu Finance, 2020, No.502(01):8-12.
+
+**[12]** Wang Wen, Yushu Liu, Liang Yugu. Digital "Belt and Road": Progress, Challenges and Practical Solutions[J]. Social Sciences Front, 2020(08):58-68.
+
+### 2025
+
+**[13]** Yushu Liu. The AI Breakthrough Path for Intellectual Property Pledge Financing of Small and Micro Technology Enterprises[N]. China Financial News Network, 2025-05-12.
+
+**[14]** Yushu Liu. Software Industry Associations Help Build High-Quality Datasets[J]. Software and Integrated Circuits, 2025(08):60-64.
 
 ---
 
-## 🔗 相关链接
+## 🎤 Media Interviews
+
+### 2025
+
+- **"Striving Forward" 2025 Mid-Year Economic Series Report ⑤: Humanoid Robots Are Becoming "Workers"** | People's Daily Online, 2025-08-08
+- **2025 CIFTIS: Not Just "Black Technology", But Also Leading the New Trend of Digital Economy** | China.com, 2025-09-23
+
+### 2023
+
+- **Evening News [Focus on Shenzhen Two Sessions] Interview on Globally Leading Advanced Manufacturing Center** | Shenzhen TV, 2023-02-16
+- **AI Midfield Battle: Tech Giants Compete to Enter, How Can Chinese Companies Break Through** | Securities Daily, March 18, 2023, Page A3
+- **Strong Observation丨Digital Economy Development Accelerates** | People's Daily Online, 2023-07-07
+- **How to Develop the Economy in the Second Half of the Year? The Central Politburo Meeting Releases Important Signals** | People's Daily Online, 2023-07-26
+- **"East Data West Computing" Enters Its Second Year: What New Economy and New Ecology Has It "Calculated"?**
+- **How Should Digital China Construction Break Through in the Face of Technology Blockade?**
+- **Stopping NVIDIA's Export to China, the United States Will Encounter "Chip Blockage"**
+- **Why Does Xi Jinping Place High Hopes on Shanghai in the Field of Science and Innovation?**
+- **The United States "Scatters Chips" in the Middle East to Contain China? Strategic Shortsightedness Is Doomed to Fail.**
+
+### 2020
+
+- **Digital RMB Pilot Program Arrives, Experts Explain How It Will Affect Our Lives** | People's Daily Online, 2020-08-17
+- **Fighting Poverty Alleviation|Exploring the Unknown World "In the Cloud", "Internet + Education" Builds a New Bridge for Poverty Alleviation** | Xinhua News, 2020-08-03
+
+---
+
+## 🔗 Links
 
 - **ORCID**: [0000-0002-7104-5818](https://orcid.org/0000-0002-7104-5818)
 - **GitHub**: [@liuyushugreat](https://github.com/liuyushugreat)
@@ -111,7 +111,6 @@
 
 <div align="center">
 
-**关注领域**：人工智能 | 决策智能 | 数字中国 | 智能制造 | 金融科技
+**Research Areas**: Artificial Intelligence | Decision Intelligence | Digital China | Intelligent Manufacturing | FinTech
 
 </div>
-
