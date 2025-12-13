@@ -120,7 +120,7 @@ Add your blog posts here using the format below:
 
 ### Blog Links
 
-- **LinkedIn**: [Yushu Liu on LinkedIn](https://www.linkedin.com/in/yushu-liu/)
+- **LinkedIn**: [Yushu Liu on LinkedIn](https://www.linkedin.com/in/yushu-liu-638549141/)
 
 <!-- Add links to your blog platforms -->
 <!-- 
