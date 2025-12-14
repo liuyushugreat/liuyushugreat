@@ -28,6 +28,7 @@ Welcome to my blog! Here I share insights on artificial intelligence, decision i
 
 ### Recent Posts
 
+- **[China Post-80s & 90s: The "Circuit Breaker" Generation](https://www.linkedin.com/pulse/yushu-liu-china-post-80s-90s-circuit-breaker-generation-yushu-liu-5byrc)** - 2025-12-14 | Society/Consumer Behavior/China
 - **[The Metaverse Isn't a Game. It's the Ultimate Offshore Bank Account.](https://www.linkedin.com/pulse/yushu-liu-metaverse-isnt-game-its-ultimate-offshore-bank-yushu-liu-03npc/)** - 2025-12-13 | Metaverse/Finance/Blockchain
 
 <!-- 
