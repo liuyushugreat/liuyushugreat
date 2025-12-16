@@ -16,7 +16,7 @@
 
 ## 👤 Biography
 
-**Yushu Liu** (刘玉书), male, graduated from Beijing Electronic Science and Technology Institute. He is a researcher in the field of artificial intelligence—decision intelligence and serves as the Deputy Secretary-General of Zhongguancun Software and Information Service Industry Innovation Alliance (Zhongguancun Software Alliance).
+**Yushu Liu** (LIU YUSHU/刘玉书) is a distinguished scholar and Deputy Secretary-General of the Zhongguancun Software Alliance. Currently pursuing a Ph.D. in Electronic Information Engineering (Large Models) at Tianjin University, he holds master's degrees from Peking University and Beihang University. Mr. Liu previously served as a Research Specialist at Tsinghua University's Financial Security Research Center and Director of Macro Research at Renmin University of China. His research intersects AI, financial data security, and digital governance, spearheading numerous high-level projects that bridge advanced theory with industrial practice. His seminal works include Digital China (CITIC Press, 2020). He is currently developing SkyNetUAM, a lifecycle-aware platform for low-altitude urban air mobility, demonstrating expertise in applying Large Language Models to aerospace engineering.
 
 **Research Focus**: Artificial Intelligence
 
