@@ -114,6 +114,7 @@ Add your blog posts here using the format below:
 
 - **"Striving Forward" 2025 Mid-Year Economic Series Report ⑤: Humanoid Robots Are Becoming "Workers"** | People's Daily Online, 2025-08-08
 - **2025 CIFTIS: Not Just "Black Technology", But Also Leading the New Trend of Digital Economy** | China.com, 2025-09-23
+- **[Liu Yushu. SOPs Set Rules for Large Models, Continuously Transforming the Traditional Programming Paradigm](https://share.gmw.cn/wlaq/2025-12/11/content_38472285.htm)** ｜ Guangming Net, 2025-12-11.
 
 ### 2023
 
