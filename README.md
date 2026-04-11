@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Researcher in Artificial Intelligence—Decision Intelligence | Deputy Secretary-General of Zhongguancun Software Alliance**
+**Researcher in Artificial Intelligence—Decision Intelligence | Secretary-General of the Zhongguancun Software Alliance**
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7104--5818-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7104-5818)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yushu-liu-638549141/)
@@ -16,7 +16,7 @@
 
 ## 👤 Biography
 
-**Yushu Liu** (LIU YUSHU/刘玉书) is a distinguished scholar and Deputy Secretary-General of the Zhongguancun Software Alliance. Currently pursuing a Ph.D. in Electronic Information Engineering (Large Models) at Tianjin University, he holds master's degrees from Peking University and Beihang University. Mr. Liu previously served as a Research Specialist at Tsinghua University's Financial Security Research Center and Director of Macro Research at Renmin University of China. His research intersects AI, financial data security, and digital governance, spearheading numerous high-level projects that bridge advanced theory with industrial practice. His seminal works include Digital China (CITIC Press, 2020). He is currently developing SkyNetUAM, a lifecycle-aware platform for low-altitude urban air mobility, demonstrating expertise in applying Large Language Models to aerospace engineering.
+**Yushu Liu** (LIU YUSHU/刘玉书) is a distinguished scholar and Secretary-General of the Zhongguancun Software Alliance. Currently pursuing a Ph.D. in Electronic Information Engineering (Large Models) at Tianjin University, he holds master's degrees from Peking University and Beihang University. Mr. Liu previously served as a Research Specialist at Tsinghua University's Financial Security Research Center and Director of Macro Research at Renmin University of China. His research intersects AI, financial data security, and digital governance, spearheading numerous high-level projects that bridge advanced theory with industrial practice. His seminal works include Digital China (CITIC Press, 2020). He is currently developing SkyNetUAM, a lifecycle-aware platform for low-altitude urban air mobility, demonstrating expertise in applying Large Language Models to aerospace engineering.
 
 **Research Focus**: Artificial Intelligence
 
