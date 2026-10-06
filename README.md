@@ -16,7 +16,7 @@
 
 ## 👤 Biography
 
-**Yushu Liu** (LIU YUSHU/刘玉书) is a distinguished scholar and Secretary-General of the Zhongguancun Software Alliance. Currently pursuing a Ph.D. in Electronic Information Engineering (Large Models) at Tianjin University, he holds master's degrees from Peking University and Beihang University. Mr. Liu previously served as a Research Specialist at Tsinghua University's Financial Security Research Center and Director of Macro Research at Renmin University of China. His research intersects AI, financial data security, and digital governance, spearheading numerous high-level projects that bridge advanced theory with industrial practice. His seminal works include Digital China (CITIC Press, 2020). He is currently developing SkyNetUAM, a lifecycle-aware platform for low-altitude urban air mobility, demonstrating expertise in applying Large Language Models to aerospace engineering.
+**Yushu Liu** (LIU YUSHU/刘玉书), male, Han Chinese, is a distinguished scholar and Secretary-General of the Zhongguancun Software Alliance. He graduated from the Beijing Electronic Science and Technology Institute, holds master's degrees from Peking University and Beihang University, and is currently pursuing a Ph.D. in Electronic Information Engineering (Large Models) at Tianjin University. Mr. Liu previously served as a Research Specialist at Tsinghua University's Financial Security Research Center and Director of Macro Research at Renmin University of China. His research intersects AI, financial data security, and digital governance, spearheading numerous high-level projects that bridge advanced theory with industrial practice. His seminal works include Digital China (CITIC Press, 2020). He is currently developing SkyNetUAM, a lifecycle-aware platform for low-altitude urban air mobility, demonstrating expertise in applying Large Language Models to aerospace engineering.
 
 **Research Focus**: Artificial Intelligence
 
@@ -64,51 +64,98 @@ Add your blog posts here using the format below:
 - **Year**: 2020
 - **ISBN**: 9787303254972
 
+### [03] Security and Development of Large AI Models: A Decision Reference Guide (《人工智能大模型安全与发展——决策参考指南》)
+- **Authors**: Wang Longbiao, Yushu Liu, Du Chenglin
+- **Publisher**: Dongbei University of Finance and Economics Press
+- **Year**: 2026
+- **ISBN**: 9787565459924
+
 ---
 
 ## 📄 Publications
 
-### 2023
+### 2026
 
-**[01]** Shi Peipei, Yushu Liu, Li Duanwen. Current Status, Challenges and Countermeasures of China's High-Tech Industry: A Case Study of the Chip and Semiconductor Industry[J]. Jiangnan Forum, 2023(02):23-27.
-
-**[02]** Yushu Liu. Small and Medium Manufacturing Enterprises Need Data Compliance with the "Data Twenty Articles"[J]. Shanghai Enterprise, 2023, No.484(03):53-54.
-
-**[03]** Yushu Liu. Promoting the Intelligent Development of the "Digital Silk Road"[J]. China Information World, 2023, No.357(03):26-29.
-
-**[04]** Yushu Liu. Artificial Intelligence: Creating Infinite Possibilities for Industrial Development[J]. Shanghai Enterprise, 2023(08):2-7.
-
-**[05]** Yushu Liu, Wu Yinxuan. Insights from U.S. Starlink for Developing China's Private Satellite Internet[J]. Satellite Applications, 2023(08):25-32.
-
-### 2022
-
-**[06]** Yushu Liu. A Comparative Study of AI Strategies and Policies between China and the United States[J]. Journal of Yunnan Administration College, 2022, 24(01):101-124.
-
-### 2021
-
-**[07]** Yushu Liu, Wang Wen. Current Status and Future Challenges of China's Intelligent Manufacturing Development[J]. People's Forum · Academic Frontiers, 2021, No.231(23):64-77.
-
-**[08]** Shi Peipei, Yushu Liu. The Rise of Mega Platforms and Crisis Response for Ordinary Workers[J]. Yunnan Social Sciences, 2021, No.244(06):106-115.
-
-### 2020
-
-**[09]** Wang Wen, Yushu Liu. On Digital China Society: Development Evolution, Current Status Evaluation and Future Governance[J]. Academic Exploration, 2020, No.248(07):48-61.
-
-**[10]** Yushu Liu. Research on Intelligent Manufacturing Upgrading and Financial Support under the Background of Anti-Globalization: From the Perspective of Industry 4.0[J]. Academic Exploration, 2020, No.242(01):120-136.
-
-**[11]** Yushu Liu. Localization of Financial Critical Information Infrastructure: Assessment and Prospects[J]. Gansu Finance, 2020, No.502(01):8-12.
-
-**[12]** Wang Wen, Yushu Liu, Liang Yugu. Digital "Belt and Road": Progress, Challenges and Practical Solutions[J]. Social Sciences Front, 2020(08):58-68.
+**[01]** Yushu Liu, Du Chenglin. The New Financial Ecosystem of Algorithms, Computing Power and Debt: Tech Giants May Reshape the Logic of the U.S. Treasury Market[J]. Tsinghua Financial Review, 2026(03):94-96.
 
 ### 2025
 
-**[13]** Yushu Liu. The AI Breakthrough Path for Intellectual Property Pledge Financing of Small and Micro Technology Enterprises[N]. China Financial News Network, 2025-05-12.
+**[02]** Yushu Liu. The AI Breakthrough Path for Intellectual Property Pledge Financing of Small and Micro Technology Enterprises[N]. China Financial News Network, 2025-05-12.
 
-**[14]** Yushu Liu. Software Industry Associations Help Build High-Quality Datasets[J]. Software and Integrated Circuits, 2025(08):60-64.
+**[03]** Yushu Liu. Software Industry Associations Help Build High-Quality Datasets[J]. Software and Integrated Circuits, 2025(08):60-64.
+
+### 2023
+
+**[04]** Shi Peipei, Yushu Liu, Li Duanwen. Current Status, Challenges and Countermeasures of China's High-Tech Industry: A Case Study of the Chip and Semiconductor Industry[J]. Jiangnan Forum, 2023(02):23-27.
+
+**[05]** Yushu Liu. Small and Medium Manufacturing Enterprises Need Data Compliance with the "Data Twenty Articles"[J]. Shanghai Enterprise, 2023, No.484(03):53-54.
+
+**[06]** Yushu Liu. Promoting the Intelligent Development of the "Digital Silk Road"[J]. China Information World, 2023, No.357(03):26-29.
+
+**[07]** Yushu Liu. Artificial Intelligence: Creating Infinite Possibilities for Industrial Development[J]. Shanghai Enterprise, 2023(08):2-7.
+
+**[08]** Yushu Liu, Wu Yinxuan. Insights from U.S. Starlink for Developing China's Private Satellite Internet[J]. Satellite Applications, 2023(08):25-32.
+
+**[09]** Shi Peipei, Xu Xuhua, Yushu Liu. Research on the Construction of a Unified National Market for the Chip and Semiconductor Industry[J]. Journal of International Economic Cooperation, 2023, No.422(02).
+
+### 2022
+
+**[10]** Yushu Liu. A Comparative Study of AI Strategies and Policies between China and the United States[J]. Journal of Yunnan Administration College, 2022, 24(01):101-124.
+
+### 2021
+
+**[11]** Yushu Liu, Wang Wen. Current Status and Future Challenges of China's Intelligent Manufacturing Development[J]. People's Forum · Academic Frontiers, 2021, No.231(23):64-77.
+
+**[12]** Shi Peipei, Yushu Liu. The Rise of Mega Platforms and Crisis Response for Ordinary Workers[J]. Yunnan Social Sciences, 2021, No.244(06):106-115.
+
+### 2020
+
+**[13]** Wang Wen, Yushu Liu. On Digital China Society: Development Evolution, Current Status Evaluation and Future Governance[J]. Academic Exploration, 2020, No.248(07):48-61.
+
+**[14]** Yushu Liu. Research on Intelligent Manufacturing Upgrading and Financial Support under the Background of Anti-Globalization: From the Perspective of Industry 4.0[J]. Academic Exploration, 2020, No.242(01):120-136.
+
+**[15]** Yushu Liu. Localization of Financial Critical Information Infrastructure: Assessment and Prospects[J]. Gansu Finance, 2020, No.502(01):8-12.
+
+**[16]** Wang Wen, Yushu Liu, Liang Yugu. Digital "Belt and Road": Progress, Challenges and Practical Solutions[J]. Social Sciences Front, 2020(08):58-68.
+
+### 2019
+
+**[17]** Liu Yuwen, Yushu Liu. U.S. Experience and Insights on Counter-Terrorism Intelligence Fusion Response[J]. Journal of the Armed Police Academy, 2019, 35(01):85-96.
+
+### 2018
+
+**[18]** Yushu Liu, Liu Yuwen. Concepts and Development Trajectory of the "Digital Silk Road"[J]. Decision & Information, 2018, No.503(11):78-84.
+
+**[19]** Wang Wen, Yushu Liu. Blockchain's Tenth Anniversary: Development Status, Trends and Regulatory Policy Research[J]. Contemporary Financial Research, 2018, No.7(04):1-10.
+
+**[20]** Wang Wen, Yushu Liu. Reflections on Blockchain Development[J]. China Finance, 2018, No.881(11):71-73.
+
+**[21]** Yushu Liu. Deeply Comprehending the Spirit of President Xi's Speech at the National Cybersecurity and Informatization Work Conference[J]. Motherland, 2018, No.245(09):24-25.
+
+**[22]** Shi Peipei, Yushu Liu. Research on the Changing Trends and Problems of U.S. Cybersecurity Strategy[J]. Journal of Strategy and Decision-Making, 2018, 9(01):3-24.
+
+### 2017
+
+**[23]** Zhai Haixiao, Yushu Liu. Research on "Lone Wolf" Terrorism: A Dual Perspective of Criminal Characteristics and New Media Dissemination[J]. Journal of Criminal Investigation Police University of China, 2017, No.137(03):28-35.
+
+### 2016
+
+**[24]** Chen Xiankui, Yushu Liu. Information Dissemination and Organizational Structure Changes of Terrorist Organizations in the We-Media Era[J]. Global Media Journal, 2016, 3(04):122-143.
+
+### 2015
+
+**[25]** Chen Xiankui, Yushu Liu. Paywall: The Digital Transformation of The New York Times and the Development of the American Newspaper Industry[J]. The Chinese Journal of American Studies, 2015, 29(02):112-131.
+
+**[26]** Chen Xiankui, Yushu Liu. We-Media Research and Comparative Analysis between China and the United States, 2003-2014: A Data Mining Perspective[J]. Journalism & Communication, 2015, 22(03):80-98.
 
 ---
 
 ## 🎤 Media Interviews
+
+### 2026
+
+- **Xianzuo Industry Development Index Rises in Q2, Brand Value Continues to Grow** | China Daily, 2026-08-14
+- **Digital-Intelligence Empowerment Charts a New Blueprint for Trade in Services** | Guangming Daily, 2026-09-10
 
 ### 2025
 
